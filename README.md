@@ -1,3 +1,5 @@
+# Project development was moved to the https://github.com/Kolkir/Coarse_LoFTR_TRT
+
 # LoFTR_TRT
 TensorRT adaptation of LoFTR: Detector-Free Local Feature Matching with Transformers 
 
